@@ -22,9 +22,9 @@ response1.json()
 
 ## Was successful in finding and displaying the lyrics to Viva la Vida by Coldplay, a song in English
 
-## GET request to pull data from API for lyrics to imagine dragon's whatever it takes
+## GET request to pull data from API for lyrics to Imagine Dragon's Whatever It Takes
 
-response2 = requests.get('https://api.lyrics.ovh/v1/imagine dragons/whatever it takes')
+response2 = requests.get('https://api.lyrics.ovh/v1/iMaGIne dRAgONs/WHaTEVeR it tAKeS')
 
 ## Printing status code to display what happened
 
