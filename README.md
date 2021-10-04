@@ -18,6 +18,9 @@ It is important to have correct spacing for artist names and song titles.
 Also, the API can pull songs from languages other than English. 
 The other languages tested in this assignment are Japanese, Chinese, Korean, and Spanish.
 
+[Important Note: The examples provided above will not work if copied and pasted. 
+This is due to the zero width space added to prevent any auto-generated hyperlinks.]
+
 All the songs chosen in this assignment were ones that worked and successfully returned 
 information. There were several other songs in languages other than English that did not work 
 and therefore were not included in the final file.
