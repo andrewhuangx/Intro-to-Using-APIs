@@ -13,8 +13,8 @@ Title is a string that is the title of the song.
 
 For both artist and title the capitalization does not matter.
 It is important to have correct spacing for artist names and song titles.
-(e.g. 'https://api.lyrics.ovh/v1/iMaGIne dRAgONs/WHaTEVeR it tAKeS' would work, but not
-'https://api.lyrics.ovh/v1/ImagineDragons/Whateverittakes')
+(e.g. 'https​://api.lyrics.ovh/v1/iMaGIne dRAgONs/WHaTEVeR it tAKeS' would work, but not
+'https​://api.lyrics.ovh/v1/ImagineDragons/Whateverittakes')
 Also, the API can pull songs from languages other than English. 
 The other languages tested in this assignment are Japanese, Chinese, Korean, and Spanish.
 
